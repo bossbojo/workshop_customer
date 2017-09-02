@@ -1,0 +1,26 @@
+.uppercase {
+    text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+.img-profile{
+    border-radius: 50%;
+}
+.bg-primary{
+    background-color:#3097d1;
+    border-style: none;
+}
+.bg-success{
+    background-color:#dff0d8;
+}
+.bg-info{
+    background-color:#d9edf7;
+}
+.bg-danger{
+    background-color:#f2dede;
+}
+.bg-warning{
+    background-color:#fcf8e3;
+}
